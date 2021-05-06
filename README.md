@@ -1,1 +1,1 @@
-# -MyGoTest
+# MyGoTest
