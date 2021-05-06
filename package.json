@@ -1,0 +1,14 @@
+{
+  "name": "MyGoTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "repository": "https://github.com/peng11010518/MyGoTest.git",
+  "author": "peng11010518 <peng11010518@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
